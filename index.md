@@ -4,6 +4,8 @@
 
 
 ## Bài tập
-* [Tạo bài](./problems.md)
-* [Add Test](./addtest.md)
-* [Tạo test](./gentest.md)
+* [Tạo bài](./Problems/problems.md)
+* [Add Test](./Problems/addtest.md)
+* [Tạo test](./Problems/gentest.md)
+
+## Contest
