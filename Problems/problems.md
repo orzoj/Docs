@@ -70,10 +70,9 @@ Còn đây là khi preview
 **Quy tác viết Latex ([link](https://en.wikibooks.org/wiki/LaTeX/Mathematics)):**
 * để tạo ra một công thức toán thì sẽ bỏ vô cặp dấu **~**
 
-**~a + b~**
-
 **~(1 \leq n \leq 10^5)~**
 
+**~a + b~**
 
 ![a + b](https://cdn.discordapp.com/attachments/481083331740565518/1034484832169889822/unknown.png)
 
