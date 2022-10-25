@@ -14,6 +14,11 @@ Upload File test lên **(.zip)**
 
 ![img](https://cdn.discordapp.com/attachments/481083331740565518/1034487726348705802/unknown.png)
 
+**File test** có dang:
+
+![img](https://cdn.discordapp.com/attachments/481083331740565518/1034490803751501835/unknown.png)
+
+
 ***Mỗi thao tác nhớ ấn Submit để lưu***
 
 Ấn **Add new case** để thêm test rồi chọn **Input file**, **Output file**  và **Points** cho case
